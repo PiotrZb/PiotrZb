@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="HelloBackground">
+  <img src="HelloBackground.png">
 </div>
 
 # About me 📃
@@ -7,7 +7,8 @@
 My name is Piotr and I come from Poland 🇵🇱. I am currently studying 🎛️ Automation and Robotics 🤖 at *Poznań University of Technology*. <br/>
 I love programming and I am still trying to develop in this direction by learning new algorithms and technologies. <br/>
 I am also interested in history 🏰 and geopolitics 🌍. I spend my free time solving programming puzzles 🧩 or playing volleyball 🏐. <br/>
-I think that the two best things that have ever happened to humanity are cats 😻 and The Witcher 3 🎮... You can try to change my mind 😉.
+I think that the two best things that have ever happened to humanity are cats 😻 and The Witcher 3 🎮... <br/>
+You can try to change my mind 😉.<br/>
 
 # Technologies I mostly use 👈
 
