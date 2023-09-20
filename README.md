@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="Background.jpg"/>
+  <img src="HelloBackground">
 </div>
 
-# About me
+# About me 📃
 
-# Technologies I mostly use
+My name is Piotr and I come from Poland 🇵🇱. I am currently studying 🎛️ Automation and Robotics 🤖 at *Poznań University of Technology*. <br/>
+I love programming and I am still trying to develop in this direction by learning new algorithms and technologies. <br/>
+I am also interested in history 🏰 and geopolitics 🌍. I spend my free time solving programming puzzles 🧩 or playing volleyball 🏐. <br/>
+I think that the two best things that have ever happened to humanity are cats 😻 and The Witcher 3 🎮... You can try to change my mind 😉.
+
+# Technologies I mostly use 👈
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -18,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-# I also use
+# I also use 💻🔧
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
@@ -40,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-# Github Stats
+# Github stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PiotrZb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
@@ -48,7 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=PiotrZb&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -56,4 +60,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PiotrZb.PiotrZb&right_color=blue&left_text=Views"  />
 </div>
 
-###
