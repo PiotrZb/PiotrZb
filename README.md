@@ -4,10 +4,10 @@
 
 # About me 📃
 
-My name is Piotr and I come from Poland 🇵🇱. I am currently studying 🎛️ Automation and Robotics 🤖 at *Poznań University of Technology*.
+My name is Piotr and I come from Poland. I completed first-cycle studies in automation and robotics at the *Poznań University of Technology*.
 I love programming and I am still trying to develop in this direction by learning new algorithms and technologies.
-I am also interested in 🏰 history and 🌍 geopolitics. I spend my free time solving programming 🧩 puzzles or playing 🏐 volleyball.
-I think that the two best things that have ever happened to humanity are 😻 cats and 🎮 The Witcher 3...
+I am also interested in history and geopolitics. I spend my free time solving programming puzzles or playing volleyball.
+I think that the two best things that have ever happened to humanity are cats and The Witcher 3...
 You can try to change my mind 😉.
 
 # Technologies I mostly use 👈
@@ -24,7 +24,8 @@ You can try to change my mind 😉.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-# I also use 💻🔧
+</br>
+</br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
